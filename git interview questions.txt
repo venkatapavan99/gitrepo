@@ -27,6 +27,7 @@ We have 3 types of repositories
 1. Local
 2. Remote
 3. Central
+http://54.241.208.144:8080/http://54.241.208.144:8080/http://54.241.208.144:8080/http://54.241.208.144:8080/http://54.241.208.144:8080/http://54.241.208.144:8080/
 
 
 3. How to track a file in git?
